@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:10.986999
+#+DATE: 2015-08-30 19:30:12.413970
 #+TITLE: 梵志頞波羅延問種尊經
 #+PROPERTY: CBETA_ID T01n0071
 #+PROPERTY: ID KR6a0071
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 071
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0071_T_000-0876b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0071_T_001-0876b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.71[No.26(151)]¶
-
- 梵志頞波羅延問種尊經¶
+No. 71 [No. 26(151)]¶
+梵志頞波羅延問種尊經¶
 ¶
 東晉西域三藏竺曇無蘭譯¶
 
